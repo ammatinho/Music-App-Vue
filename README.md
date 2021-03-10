@@ -1,7 +1,3 @@
-# music-app
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # Music-App-Vue
 
 Created a simple frontend VueJS Music App that uses the HTML5 Audio Element API to play music. Used VueJS reactive features including lifecycle methods, data and methods to create a simple Music App with playable playlist
